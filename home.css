@@ -1,0 +1,90 @@
+body{
+	background: lightskyblue;
+	margin: 0;
+	padding: 0;
+}
+.header{
+	background: grey;
+	width: 100%;
+	height: 150px;
+}
+.header-log img{
+	width: 100px;
+	height: 150px;
+	border-radius: 60%;
+	margin left: 50px;
+}
+.header ul {
+	list-style-type: none;
+	float: right;
+	margin-top: -80px;
+}
+li{
+	display: inline;
+    padding: 10px;
+    background: blanchedalmond;
+    color: wheat;
+    border-radius: 10px;
+    margin-right: 15px ;
+    text-decoration-line: none;
+
+}
+.footer{
+	background: grey;
+	width: 100%;
+	height: 50px;
+	position: fixed;
+	bottom: 0;
+}
+p{
+	text-align: center;
+	color: white;
+}
+.prabhas{
+	height: 300px;
+	width: 300px;
+	background-color: blue;
+	margin-left: 50px;
+	margin-top: 60px;
+	float: left;
+}
+.dq{
+	height: 300px;
+	width: 300px;
+	background-color: violet;
+	margin-left: 250px;
+	margin-top: 60px;
+	float: left;
+}
+.arjundas{
+	height: 300px;
+	width: 300px;
+	background-color: black;
+	margin-right: 50px;
+	margin-top: 60px;
+	float: right;
+}
+.prabhas img{
+	height: 300px;
+	width: 300px;
+}
+.dq img{
+	height: 300px;
+	width: 300px;
+}
+.arjundas img{
+	height: 300px;
+	width: 300px;
+}
+h2{
+	text color: whitesmoke;
+}
+.forms{
+	height: 380px;
+	width: 300px;
+	background-color: whitesmoke;
+	margin-left: 50px;
+	margin-top: 10px;
+	float: left;
+	font-size: 10px;
+}
